@@ -11,6 +11,9 @@ using System.Data;
 using System.Data.SqlClient;
 
 
+![image](https://user-images.githubusercontent.com/67698405/116924957-ed9e9c00-ac2e-11eb-881e-59c33a6a434a.png)
+
+
 namespace crud_VENDAS
 
 {
