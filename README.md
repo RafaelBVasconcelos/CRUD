@@ -1,5 +1,6 @@
 # CRUD
-Sistemas de Controle de Vendas criado em console para teste e aperfeiçoamento de linguagem em C#.
+
+Sistema de Controle de Vendas criado em console para teste e aperfeiçoamento de linguagem em C#.
 
 
 
